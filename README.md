@@ -2,7 +2,7 @@
 
 ## Installation
 
-Copy the extension to phpBB/ext/paul999/mention
+Copy the contents of the repository's `paul999/mention/` folder to `phpBB/ext/paul999/mention/`. Do not copy the repository root into phpBB.
 
 Go to "ACP" > "Customise" > "Extensions" and enable the "phpBB mentions" extension.
 
@@ -25,4 +25,4 @@ others:
 
 ## License
 
-[GPLv2](license.txt)
+[GPLv2](paul999/mention/license.txt)
